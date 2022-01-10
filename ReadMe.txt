@@ -1,16 +1,16 @@
-Informazioni riguardanti gli strumenti utilizzati per lo sviluppo 
+Information on the tools used for development
 
-IDE: Visual Studio Code
-Linguaggio: C#
-Tecnologie principali: .Net 5, Docker, PostgreSQL e Entity Framework 
+IDE: Visual Studio code
+Language: C #
+Main technologies: .Net 5, Docker, PostgreSQL and Entity Framework
 
-Utilizzo del DB:
-Viene usato un container di Docker per PostgreSQL
-Database utilizzato ---> DB Relazionale 
-DBMS utilizzato ---> PostgreSQL
-Acccesso da locale per DBMS ---> http://localhost:5050/login
-        Credenziali --->  Email: admin@kokoshari.com 
+Use of the DB:
+A Docker container for PostgreSQL is used
+Database used ---> Relational DB
+DBMS used ---> PostgreSQL
+Local login for DBMS ---> http: // localhost: 5050 / login
+        Credentials ---> Email: admin@kokoshari.com
                           Password: koko1234
                           
-Test: Per eseguire i test delle varie operazioni che offre questa API viene usato postman
-NB: Disattivare i certificati SSL per testare su postman 
+Test: Postman is used to test the various operations offered by this API
+NB: Disable SSL certificates to test on postman
