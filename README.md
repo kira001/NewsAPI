@@ -16,7 +16,7 @@
 ## Test Information: 
 - Postman is used to test the various operations offered by this API;
 - NB: Disable SSL certificates to test on postman
-https://github.com/kira001/NewsAPI
+![](https://github.com/kira001/NewsAPI/editor.md.svg)
 ![](https://img.shields.io/github/stars/pandao/editor.md.svg) 
 ![](https://img.shields.io/github/forks/pandao/editor.md.svg) 
 ![](https://img.shields.io/github/tag/pandao/editor.md.svg) 
